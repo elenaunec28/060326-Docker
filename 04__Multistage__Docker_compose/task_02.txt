@@ -1,0 +1,6 @@
+1. Запустить локальную Википедию с хранением статей в базе данных.
+
+2. Запустить локальный сайт на wordpress
+    (свободное ПО, система управления веб-контентом).
+
+https://github.com/aliaskov/docker-principles/blob/master/wordpress_docker_compose.yml
